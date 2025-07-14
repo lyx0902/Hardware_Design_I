@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Jul 14 10:52:54 2025
+# Process ID: 8944
+# Current directory: D:/multi_cycle_cpu
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent408 D:\multi_cycle_cpu\multi_cycle_cpu.xpr
+# Log file: D:/multi_cycle_cpu/vivado.log
+# Journal file: D:/multi_cycle_cpu\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/multi_cycle_cpu/multi_cycle_cpu.xpr
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/Administrator/Downloads/testbench_behav.wcfg'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+ERROR: [Vivado 12-106] *** Exception: java.lang.NullPointerException (See D:/multi_cycle_cpu/vivado_pid8944.debug)
+open_project: Time (s): cpu = 00:00:08 ; elapsed = 00:00:08 . Memory (MB): peak = 1117.637 ; gain = 0.000
+ERROR: [Common 17-39] 'open_project' failed due to earlier errors.
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Jul 14 10:53:26 2025...

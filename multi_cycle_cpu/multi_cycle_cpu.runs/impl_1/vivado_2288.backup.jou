@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Jul 14 11:03:30 2025
+# Process ID: 2288
+# Current directory: D:/multi_cycle_cpu/multi_cycle_cpu.runs/impl_1
+# Command line: vivado.exe -log multi_cycle_cpu_display.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source multi_cycle_cpu_display.tcl -notrace
+# Log file: D:/multi_cycle_cpu/multi_cycle_cpu.runs/impl_1/multi_cycle_cpu_display.vdi
+# Journal file: D:/multi_cycle_cpu/multi_cycle_cpu.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source multi_cycle_cpu_display.tcl -notrace
